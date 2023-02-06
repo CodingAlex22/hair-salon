@@ -2,7 +2,7 @@
 
 # Hair salon
 
-Xcoin is a crypto tracker website influenced by Coinmarketcap in order to show you real time cryptocurrency prices using Coingecko's API
+Hair Salon is a static website that showcases a beauty salon using HTML and CSS
 
 **Link to project:** https://hairsalon927a.netlify.app/
 
