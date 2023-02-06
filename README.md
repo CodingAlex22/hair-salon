@@ -6,7 +6,7 @@ Xcoin is a crypto tracker website influenced by Coinmarketcap in order to show y
 
 **Link to project:** https://hairsalon927a.netlify.app/
 
-<img src="https://i.ibb.co/mNg83qw/ezgif-4-8ece80c788.gif" height="80%" />
+<img src="https://i.ibb.co/WnM9B6V/ezgif-2-30954981ee.gif" height="80%" />
 
 ## Usage
 
